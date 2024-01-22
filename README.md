@@ -3,12 +3,12 @@
 ### third level heading
 **bold text** <br>
 *italicized text*
-> blockquote
+> blockquote <br>
 Ordered List:
 1. First item
 2. Second item
-3. Third item <br>
-Unordered List:
+3. Third item <be>
+Unordered List
 - First item
 - Second item
 - Third item <br>
