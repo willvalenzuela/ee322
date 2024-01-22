@@ -16,7 +16,9 @@ Unordered List:
 - Second item
 - Third item <br>
 
-this is how to denote a word or phrase as code: `code`
+this is how to denote a word or phrase as code: `code` <br>
+
+Horizontal Rule: 
 
 ---
 
