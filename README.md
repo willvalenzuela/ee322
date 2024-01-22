@@ -20,5 +20,5 @@ this is how to denote a word or phrase as code: `code`
 
 ---
 
-[title](https://www.example.com)
+[title](https://www.example.com) <br>
 ![alt text](image.jpg)
