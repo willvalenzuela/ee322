@@ -1,7 +1,7 @@
 # first level heading
 ## second level heading
 ### third level heading
-**bold text**
+**bold text** \n
 *italicized text*
 > blockquote
 1. First item
