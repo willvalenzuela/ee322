@@ -4,12 +4,12 @@
 **bold text** <br>
 *italicized text*
 
-> blockquote <be>
+> blockquote <br>
 
 Ordered List:
 1. First item
 2. Second item
-3. Third item <be>
+3. Third item <br>
 Unordered List
 - First item
 - Second item
