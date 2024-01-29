@@ -1,5 +1,5 @@
 # William Valenzuela
-**My GitHub** <br>
+**My GitHub Repository** <br>
 *EE 322 Spring 2024*
 
 ---
