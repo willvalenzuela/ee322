@@ -19,4 +19,4 @@ My 3 favorite hobbies:
 This is how to denote a word or phrase as code: `code` <br>
 
 [My GitHub Homepage](https://github.com/willvalenzuela) <br>
-![My Profile Picture](image.jpg)
+![Photo of my favorite city](download.jpg)
