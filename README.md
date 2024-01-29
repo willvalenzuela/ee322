@@ -1,26 +1,22 @@
-# first level heading
-## second level heading
-### third level heading
-**bold text** <br>
-*italicized text*
-
-> blockquote <br>
-
-Ordered List:
-1. First item
-2. Second item
-3. Third item <br>
-
-Unordered List:
-- First item
-- Second item
-- Third item <br>
-
-this is how to denote a word or phrase as code: `code` <br>
-
-Horizontal Rule: 
+# William Valenzuela
+**My GitHub** <br>
+*EE 322 Spring 2024*
 
 ---
 
-[Link](https://www.example.com) <br>
-![Image](image.jpg)
+> Assignment 0 <br>
+
+My top 3 favorite artists:
+1. Travis Scott
+2. Future
+3. Migos <br>
+
+My 3 favorite hobbies:
+- Working out/ Running
+- Hanging out with friends 
+- Playing video games <br>
+
+This is how to denote a word or phrase as code: `code` <br>
+
+[My GitHub Homepage](https://github.com/willvalenzuela) <br>
+![My Profile Picture](image.jpg)
