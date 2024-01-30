@@ -4,7 +4,7 @@
 
 ---
 
-> Assignment 0 <br>
+> "It is during our darkest moments that we must focus to see the light." -Aristotle <br>
 
 My top 3 favorite artists:
 1. Travis Scott
