@@ -16,7 +16,7 @@ My 3 favorite hobbies:
 - Hanging out with friends 
 - Playing video games <br>
 
-[My EE 322 Repository](https://github.com/willvalenzuela/ee322) <be>
+[My EE 322 Repository](https://github.com/willvalenzuela/ee322) <br>
 `$ git clone https://github.com/willvalenzuela/ee322.git` <br>
 Photo of my favorite city: <br>
 ![Photo of my favorite city](download.jpg)
