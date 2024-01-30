@@ -16,8 +16,7 @@ My 3 favorite hobbies:
 - Hanging out with friends 
 - Playing video games <br>
 
-This is how to denote a word or phrase as code: `code` <br>
-
-[My GitHub Homepage](https://github.com/willvalenzuela) <br>
+[My EE 322 Repository](https://github.com/willvalenzuela/ee322) <be>
+`$ git clone https://github.com/willvalenzuela/ee322.git` <br>
 Photo of my favorite city: <br>
 ![Photo of my favorite city](download.jpg)
